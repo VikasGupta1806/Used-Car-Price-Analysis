@@ -49,12 +49,12 @@ In this part, we segment the car data based on various attributes and perform de
 ### Part 2: Exploratory Data Analysis
 We perform a thorough EDA using Python (pandas, matplotlib, seaborn) to identify factors that significantly impact car prices. We examine correlations between price and attributes like make, model, condition, and odometer.
 
-![EDA Plots](EDA Plots.png)
+![EDA Plots](https://github.com/VikasGupta1806/Used-Car-Price-Analysis/blob/7a5fb38a5c1587e37df1f304c4f4daed633969ed/EDA%20Plots.png)
 
 ### Part 3: Price Prediction Model
 A machine learning model is developed to predict car prices. Using Linear Regression and Random Forest, we assess the performance and interpret the importance of different features.
 
-![Model Results](Model Results.png)
+![Model Results](https://github.com/VikasGupta1806/Used-Car-Price-Analysis/blob/7a5fb38a5c1587e37df1f304c4f4daed633969ed/Model%20Results.png)
 
 ## Technologies Used
 - **Python**: pandas, numpy, matplotlib, seaborn, scikit-learn
