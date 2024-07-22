@@ -1,6 +1,6 @@
 # Used Car Prices Analysis
 
-![Overview](overview.png)
+![Overview](Overview.png)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
