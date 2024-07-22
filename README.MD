@@ -1,6 +1,5 @@
 # Used Car Prices Analysis
 
-![Overview](Overview.png)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -20,6 +19,7 @@
 This project aims to analyze and predict the selling prices of used cars in the USA. By leveraging data cleaning, exploratory data analysis, and machine learning, we uncover key factors influencing car prices and build a predictive model to estimate car values.
 
 ## Data
+![Overview](Overview.png)
 The dataset used in this project is `car_prices.csv`, which includes the following columns:
 - year
 - make
