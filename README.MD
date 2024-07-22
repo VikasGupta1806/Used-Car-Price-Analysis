@@ -89,4 +89,4 @@ This project provides a comprehensive analysis of used car prices, highlighting 
 - Develop a web application to make the model accessible to end-users.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://www.mit.edu/~amini/LICENSE.md) file for details.
